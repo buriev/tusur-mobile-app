@@ -1,0 +1,20 @@
+{
+  "[typescript]": {
+    "editor.rulers": [89]
+  },
+  "[typescriptreact]": {
+    "editor.rulers": [89]
+  },
+  "files.exclude": {
+    ".expo": true,
+    "expo-env.d.ts": true,
+    "node_modules": true,
+    "bun.{lock,lockb}": true,
+    "*.tsbuildinfo": true
+  },
+  "search.exclude": {
+    ".expo/**": true,
+    "android/**": true,
+    "ios/**": true
+  }
+}
